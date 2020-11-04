@@ -1,10 +1,13 @@
-package com.example.vjezba6;
+package com.example.vjezba6.controller;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
+
+import com.example.vjezba6.R;
+import com.example.vjezba6.myAdapter;
 
 import java.util.ArrayList;
 
